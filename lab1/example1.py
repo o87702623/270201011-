@@ -1,5 +1,7 @@
-total = 10
+#animals
+
 chickens = 6
+total = 10
 roosters = total - chickens
 
-print(roosters)
+print(f"there are {roosters} roosters in hen coop")

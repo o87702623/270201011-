@@ -1,3 +1,5 @@
+#multiplication table 
+
 x = int(input("x : ")
 multiplication = []
 
